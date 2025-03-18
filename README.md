@@ -102,9 +102,6 @@ py_url_shortner/
 │   │   └── config.py        # Configurações da aplicação
 │   ├── main.py              # Ponto de entrada da aplicação
 │   └── schemas.py           # Esquemas Pydantic
-├── tests/
-│   ├── conftest.py          # Configurações para testes
-│   └── test_url_service.py  # Testes do serviço de URL
 ├── .env                     # Variáveis de ambiente (não versionado)
 ├── .env.example             # Exemplo de variáveis de ambiente
 ├── .gitignore               # Arquivos ignorados pelo Git
