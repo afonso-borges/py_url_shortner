@@ -84,13 +84,6 @@ X-API-Key: your_secret_api_key
 GET /{short_code}
 ```
 
-## Testes
-
-Execute os testes com:
-
-```bash
-pytest
-```
 
 ## Estrutura do Projeto
 
